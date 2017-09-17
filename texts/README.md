@@ -1,13 +1,13 @@
 |Topic|Average num. of words|id|File name|Numb. of words|
 |---|---|---|---|---|
-|diary|15777.0|1|2016_2_02_diary_1950_1951.txt|**16868**|
+|diary|15 777.0|1|2016_2_02_diary_1950_1951.txt|**16868**|
 |||2|2016_2_03_diary_1956.txt|**6964**|
 |||3|2016_2_04_diary_1957.txt|**42640**|
 |||4|2016_3_02_diary_1958.txt|**8482**|
 |||5|2016_3_03_diary_1963.txt|**11100**|
 |||6|2016_3_04_diary_1964.txt|**20650**|
 |||7|na16.txt|3735|
-|dostoevsky|12698.6|1|2013_1_8-93_igrok.txt|**29780**|
+|dostoevsky|8 281.04|1|2013_1_8-93_igrok.txt|**29780**|
 |||2|2013_2_6-83_besy.txt|**27426**|
 |||3|2015_3_8-15_troyat.txt|2924|
 |||4|art_probl.txt|**10956**|
@@ -32,7 +32,7 @@
 |||23|prototype_dost.txt|**6399**|
 |||24|protoype_stavr.txt|3705|
 |||25|readers_problem.txt|**9121**|
-|literature|27690.117|1|2013_1_95-98_war-n-peace.txt|992|
+|literature|9 015.70|1|2013_1_95-98_war-n-peace.txt|992|
 |||2|2014_1_9-66_freid.txt|**21278**|
 |||3|2014_2_9-61_novel.txt|**19689**|
 |||4|2016_4_03_friend.txt|3066|
@@ -49,7 +49,7 @@
 |||15|nazirov-revizor.txt|3905|
 |||16|nazirov-rost.txt|880|
 |||17|nazirov-umolchanie.txt|4316|
-|myth|44980.3636|1|2015_4_ancient_civil.txt|950|
+|myth|2 186.54|1|2015_4_ancient_civil.txt|950|
 |||2|2015_4_cinder.txt|4077|
 |||3|2015_4_evolution.txt|1514|
 |||4|2015_4_mary.txt|4365|
