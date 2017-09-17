@@ -23,7 +23,14 @@
 |||14|nazirov-odoevsky.txt|1897|
 |||15|nazirov-paraphrasa.txt|2599|
 |||16|nazirov-preemstven.txt|3369|
-|||17|nazirov-ravnopravie.txt|**5674**|18|nazirov-slovar.txt|**5310**|19|nazirov-unizhennye.txt|**5832**|20|nazirov-verxovensky.txt|**5272**|21|nazirov-vrazhda.txt|**7277**|22|prototypes_idiot.txt|**5841**|23|prototype_dost.txt|**6399**|24|protoype_stavr.txt|3705|
+|||17|nazirov-ravnopravie.txt|**5674**|
+|||18|nazirov-slovar.txt|**5310**|
+|||19|nazirov-unizhennye.txt|**5832**|
+|||20|nazirov-verxovensky.txt|**5272**|
+|||21|nazirov-vrazhda.txt|**7277**|
+|||22|prototypes_idiot.txt|**5841**|
+|||23|prototype_dost.txt|**6399**|
+|||24|protoype_stavr.txt|3705|
 |||25|readers_problem.txt|**9121**|
 |literature|27690.117|1|2013_1_95-98_war-n-peace.txt|992|
 |||2|2014_1_9-66_freid.txt|**21278**|
