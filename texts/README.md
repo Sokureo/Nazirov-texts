@@ -1,4 +1,4 @@
-|Topic|Average num. of words|id|File name|Numb. of words|
+|Topic|Average num. of words|id|File name|Numb. of words| 
 |---|---|---|---|---|
 |diary|15 777.0|1|2016_2_02_diary_1950_1951.txt|**16868**|
 |||2|2016_2_03_diary_1956.txt|**6964**|
@@ -49,7 +49,7 @@
 |||15|nazirov-revizor.txt|3905|
 |||16|nazirov-rost.txt|880|
 |||17|nazirov-umolchanie.txt|4316|
-|myth|2 186.54|1|2015_4_ancient_civil.txt|950|
+|myth|3 462.85|1|2015_4_ancient_civil.txt|950|
 |||2|2015_4_cinder.txt|4077|
 |||3|2015_4_evolution.txt|1514|
 |||4|2015_4_mary.txt|4365|
@@ -60,3 +60,41 @@
 |||9|2015_4_skull.txt|352|
 |||10|2015_4_sleep.txt|575|
 |||11|2016_4_02_child.txt|**7075**|
+|||12|ancient_civil|904|
+|||13|Bescennaja_uzdechka|1356|
+|||14|Cherep_na_sheste|2382|
+|||15|cinder|3975|
+|||16|demon|280|
+|||17|ditya|**5444**|
+|||18|Dobyvanie_volshebnogo_mecha|1662|
+|||19|evolution|1495|
+|||20|Genezis_i_puti_razvitija_mifologicheskih_sjuzhetov|**6785**|
+|||21|Hrustalnyj_grob|1438|
+|||22|Istoki_sjuzheta_Kashheeva_smert_v_jajce|2374|
+|||23|Istoricheskie_korni_evgemerizma|2061|
+|||24|Izbushka_na_kurih_nozhkah|2012|
+|||25|mary|4143|
+|||26|middleages|2783|
+|||27|mouse|1536|
+|||28|Nagljadnaja_diplomatija|1980|
+|||29|Narisovannaja_lodka|1017|
+|||30|Podlinnyj_smysl_Polikratova_perstnja|890|
+|||31|prevrashhenija_sjuzhetov|1713|
+|||32|reactivation|449|
+|||33|Shamanskij_buben_i_zapertoe_gore|1709|
+|||34|Sjuzhet_ob_ozhivajushhej_statue|3023|
+|||35|Skazochnye_talismany_nevidimosti|3473|
+|||36|skull|346|
+|||37|Slavjanskie_legendy_o_zizhditeljah_gorodov|1767|
+|||38|sleep|563|
+|||39|Sol_kak_folklorno_mifologicheskij_simvol|1585|
+|||40|Specifika_hudozhestvennogo_mifotvorchestva|2305|
+|||41|Srednevekovoe_mifotvorchestvo|2124|
+|||42|Stanovlenie_mifov_i_ih_istoricheskaja_zhizn|**63524**|
+|||43|Svjashhennaja_zola|4187|
+|||44|Vozrozhdenie_iz_kostej|1630|
+|||45|Vyrezka_zemli|1173|
+|||46|Yabloko_i_granat|1494|
+|||47|Zametki_k_knige|**5141**|
+|||48|Zapret_ogljadyvatsja|1548|
+|||49|Zhenopodobie_shamana_i_zhreca|3357|
